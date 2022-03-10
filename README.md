@@ -4,6 +4,8 @@
 1画面目のフロントエンドを担当
 
 担当した言語：JavaScript jquery HTML CSS
+約1000行
+
 バックエンド言語：Python django
 開発期間：約３週間
 
